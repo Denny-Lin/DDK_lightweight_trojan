@@ -3,9 +3,9 @@ An application that can transmit some information from server.
 <br><br/>
 
 ## Features
-* To be client, you can send some terminal command.
+* To be client, you can send some terminal commands.
 * To be server, you will respond that command's information.
-* you can use mkdir to create folder in server.
+* you can send 'mkdir' to create folder in server.
 * Its size is just 80~140k.
 <br><br/>
 
