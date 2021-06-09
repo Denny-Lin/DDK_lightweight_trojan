@@ -1,5 +1,8 @@
 # DDK_lightweight_trojan
-An application that can transmit some information from server.
+* An application that can transmit some information from server.
+* I made this before and played for a while.
+* It can use local system call to do every IO behavior with no detection. 
+* Maybe I will upload if necessary.
 <br><br/>
 
 ## Features
